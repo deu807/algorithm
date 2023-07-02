@@ -1,2 +1,12 @@
-# 문제
-## https://www.acmicpc.net/problem/2798
+# 문제: [블랙잭][link]
+
+[link]: https://www.acmicpc.net/problem/2798
+
+### 출제자 : 김준기
+
+---
+### 풀이법 : 
+
+어케어케 품
+
+---
