@@ -3,7 +3,7 @@
 [link]: https://www.acmicpc.net/problem/10828
 
 
-### 출제자 : 정성헌
+### 출제자 : 윤도운
 
 ---
 ### 풀이법 : 
