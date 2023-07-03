@@ -6,7 +6,7 @@
 
 ---
 
-### 풀이법 :
+## 풀이법 :
 
 후위 표기법 (Postfix) : 연산자를 피연산자 뒤에 표기한다.
 ex) AB+, 5AB\*+
@@ -17,16 +17,15 @@ ex) AB+, 5AB\*+
 
 ### - calc_postfix(expr)
 
-스택 초기화;
-
-for 항목 in expr
-
-do if (항목이 피연산자이면)
-
-      then push(항목);
-
-    else if (항목이 연산자이면)
-
-      then second <- pop();
+    스택 초기화;
+    for 항목 in expr
+      do if (항목이 피연산자이면)
+          then push(항목);
+        else if (항목이 연산자이면)
+            then second <- pop();
+            first <- pop();
+            temp <- first op second; // op 는 +_*/중의 하나
+            push(temp);
+    result <- pop();
 
 ---
