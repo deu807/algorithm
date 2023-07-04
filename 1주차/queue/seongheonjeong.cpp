@@ -4,7 +4,7 @@ using namespace std;
 class Queue
 {
 	int a[10000];
-	int position=0; //인덱스, 현재 위치 front , near
+	int position=0; //인덱스
 public:
 	void push(int x);
 	int pop();
@@ -12,13 +12,7 @@ public:
 	int empty();
 	int front();
 	int back();
-	void print()
-	{
-		for (int i = 0; i < position; i++)
-		{
-			cout << a[i]<<' ';
-		}
-	}
+	
 };
 void Queue::push(int x)
 {
@@ -27,17 +21,17 @@ void Queue::push(int x)
 }
 int Queue::pop()
 {
-	int temp = a[0];
-	for (int i = 0; i < position-1; i++)
-	{
-		a[i] = a[i + 1];
-	}
-	position--;
-
 	if (position == 0)
-		return -1;
-	else
-		return temp;
+        return -1;
+
+    int temp = a[0];
+    for (int i = 0; i < position - 1; i++)
+    {
+        a[i] = a[i + 1];
+    }
+    position--;
+
+    return temp;
 }
 int Queue::size()
 {
@@ -94,10 +88,6 @@ int main() {
 		}
 		else if (str == "back") {
 			cout << Q.back() << endl;
-		}
-		else if (str == "print") {
-			Q.print();
-			cout << endl;
 		}
 	}
 	return 0;
