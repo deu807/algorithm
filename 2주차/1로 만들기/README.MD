@@ -1,4 +1,4 @@
-# 문제: [피사노 주기][link]
+# 문제: [1로 만들기][link]
 
 [link]: https://www.acmicpc.net/problem/1463
 
