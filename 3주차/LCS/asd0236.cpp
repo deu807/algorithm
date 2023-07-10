@@ -4,7 +4,7 @@
 using namespace std;
 
 int dp[1001][1001];
-string str1, str2;
+string str1, str2; 
 
 void input() {
 	cin >> str1 >> str2;
