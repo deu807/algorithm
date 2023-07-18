@@ -26,3 +26,13 @@
   - 미로 탐색 : <font color="green"> 성공 </font>
   - 바이러스 : <font color="green"> 성공 </font>
   - 회의실 배정 : <font color="green"> 성공 </font>
+
+---
+
+- 정성헌
+
+  - LCS : <font color="green"> 보류 </font>
+  - 나는야 포켓몬 마스터 이다솜 : <font color="green"> 성공 </font>
+  - 미로 탐색 : <font color="green"> 보류 </font>
+  - 바이러스 : <font color="green"> 성공 </font>
+  - 회의실 배정 : <font color="green"> 보류 </font>
