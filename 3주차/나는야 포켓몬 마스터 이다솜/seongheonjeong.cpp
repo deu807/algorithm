@@ -17,8 +17,8 @@ int main()
 	for (int i = 1; i <= n; i++)
 	{
 		cin >> str; //문자열 입력
-		Pokemon1.insert({ str, i }); //삽입
-		Pokemon2.insert({ i, str }); //삽입
+		Pokemon1.insert({ str, i }); //맵에 삽입
+		Pokemon2.insert({ i, str }); //맵에 삽입
 	}
 	for (int i = 0; i < m; i++)
 	{
