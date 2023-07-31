@@ -20,10 +20,10 @@
 
 - 박상훈
 
-  - 동전 1 : <font color="green">  </font>
-  - 리모컨 : <font color="green">  </font>
-  - 민서의 응급 수술 : <font color="green">  </font>
-  - 신기한 소수 : <font color="green">  </font>
+  - 동전 1 : <font color="green"> 성공 </font>
+  - 리모컨 : <font color="green"> 성공 </font>
+  - 민서의 응급 수술 : <font color="green"> 성공 </font>
+  - 신기한 소수 : <font color="green"> 성공 </font>
 
 ---
 
