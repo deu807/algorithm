@@ -34,11 +34,11 @@
   - queue : <font color="green"> 성공 </font>
   - stack : <font color="green"> 성공 </font>
 
-    ***
+---
 
 - 김준기
 
   - balckjack : <font color="green"> 성공 </font>
-  - ignition : <font color="green"> 보류 </font>
+  - ignition : <font color="yellow"> 보류 </font>
   - queue : <font color="green"> 성공 </font>
   - stack : <font color="green"> 성공 </font>
