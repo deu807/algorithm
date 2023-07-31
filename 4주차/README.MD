@@ -20,10 +20,10 @@
 
 - 박상훈
 
-  - 경로찾기 : <font color="green">  </font>
-  - 색종이 만들기 : <font color="green">  </font>
-  - 수 찾기 : <font color="green">  </font>
-  - 음악 프로그램 : <font color="green">  </font>
+  - 경로찾기 : <font color="green"> 성공 </font>
+  - 색종이 만들기 : <font color="green"> 성공 </font>
+  - 수 찾기 : <font color="green"> 성공 </font>
+  - 음악 프로그램 : <font color="green"> 성공 </font>
 
 ---
 
