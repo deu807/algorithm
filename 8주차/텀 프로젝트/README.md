@@ -1,4 +1,4 @@
-# 문제: [전화번호 목록][link]
+# 문제: [텀 프로젝트][link]
 
 [link]: https://www.acmicpc.net/problem/9466
 
