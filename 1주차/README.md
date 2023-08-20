@@ -1,44 +1,25 @@
 # 1주차 결과
-
-- 최은우
-
-  - balckjack : <font color="green"> 성공 </font>
-  - ignition : <font color="green"> 성공 </font>
-  - queue : <font color="green"> 성공 </font>
-  - stack : <font color="green"> 성공 </font>
-
----
-
-- 윤도운
-
-  - balckjack : <font color="green"> 성공 </font>
-  - ignition : <font color="yellow"> 보류 </font>
-  - queue : <font color="green"> 성공 </font>
-  - stack : <font color="green"> 성공 </font>
-
-  ***
-
-  - 박상훈
-
-  - balckjack : <font color="green"> 성공 </font>
-  - ignition : <font color="green"> 성공 </font>
-  - queue : <font color="green"> 성공 </font>
-  - stack : <font color="green"> 성공 </font>
-
-  ***
-
-- 정성헌
-
-  - balckjack : <font color="green"> 성공 </font>
-  - ignition : <font color="green"> 보류 </font>
-  - queue : <font color="green"> 성공 </font>
-  - stack : <font color="green"> 성공 </font>
-
----
-
-- 김준기
-
-  - balckjack : <font color="green"> 성공 </font>
-  - ignition : <font color="yellow"> 보류 </font>
-  - queue : <font color="green"> 성공 </font>
-  - stack : <font color="green"> 성공 </font>
+### blackjack
+- 최은우: <font color="green"> 성공 </font>
+- 박상훈: <font color="green"> 성공 </font>
+- 김준기: <font color="green"> 성공 </font>
+- 정성헌: <font color="green"> 성공 </font>
+- 윤도운: <font color="green"> 성공 </font>
+### Ignition
+- 최은우: <font color="green"> 성공 </font>
+- 박상훈: <font color="green"> 성공 </font>
+- 김준기: <font color="yellow"> 보류 </font>
+- 정성헌: <font color="yellow"> 보류 </font>
+- 윤도운: <font color="yellow"> 보류 </font>
+### queue
+- 최은우: <font color="green"> 성공 </font>
+- 박상훈: <font color="green"> 성공 </font>
+- 김준기: <font color="green"> 성공 </font>
+- 정성헌: <font color="green"> 성공 </font>
+- 윤도운: <font color="green"> 성공 </font>
+### stack
+- 최은우: <font color="green"> 성공 </font>
+- 박상훈: <font color="green"> 성공 </font>
+- 김준기: <font color="green"> 성공 </font>
+- 정성헌: <font color="green"> 성공 </font>
+- 윤도운: <font color="yellow"> 보류 </font>
