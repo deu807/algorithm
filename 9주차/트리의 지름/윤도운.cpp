@@ -61,12 +61,12 @@ void solve()
   dfs(1, 0); // 가장 멀리 있는 점 구하기
 
   maxDist = 0;
-  // 1과 가장 먼 정점에서 다시 dfs 수행하여 트리의 지름 찾기
 
   memset(visit, 0, sizeof(visit));
   // 특정 메모리 영역을 원하는 값으로 초기화 => visit 배열을 초기화 하기 위해서
 
   dfs(maxNode, 0);
+  // 1과 가장 먼 정점에서 다시 dfs 수행하여 트리의 지름 찾기
   cout << maxDist << '\n';
 }
 
