@@ -41,3 +41,10 @@
 |텀 프로젝트|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
 |준표의 조약돌|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
 |트리의 지름|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
+
+### 안 푼 문제의 개수
+- 최은우: 3개
+- 김준기: 28개
+- 박상훈: 7개
+- 윤도운: 24개
+- 정성헌: 26개
