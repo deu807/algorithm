@@ -1,5 +1,8 @@
 #!/bin/bash
 
+OLD_IFS=$IFS
+IFS=$'\n'
+
 function rename_files_in_directory {
     for file in $1/*; do
         if [ -d "$file" ]; then
