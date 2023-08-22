@@ -1,4 +1,3 @@
-
 const fs = require("fs");
 
 const filePath = process.platform === "linux" ? "/dev/stdin" : "./input.txt";
@@ -30,8 +29,9 @@ for (let i = 0; i < n; i++) {
       left++
     }
   }
-  ans = Math.max(ans, right - left)
+  if (white >= w) ans = Math.max(ans, right - left)
+
 }
 
 
-console.log(ans >= w ? ans : 0);
+console.log(ans);

@@ -3,7 +3,7 @@
 |blackjack|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|
 |Ignition|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
 |queue|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|
-|stack|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|
+|stack|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|
 |1로 만들기|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|
 |pisano|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|
 |나머지 합|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|
@@ -34,17 +34,17 @@
 |펠린드롭 분할|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
 |합이 0|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
 |호석이 두 마리 치킨|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|
-|민준이와 마산 그리고 건우|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|
+|민준이와 마산 그리고 건우|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|
 |벽뿌4|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
 |전화번호 목록|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|
-|최소비용 구하기|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|
-|텀 프로젝트|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
+|최소비용 구하기|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|
+|텀 프로젝트|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
 |준표의 조약돌|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
 |트리의 지름|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
 
 ### 안 푼 문제의 개수
-- 최은우: 3개
+- 최은우: 0개
 - 김준기: 28개
 - 박상훈: 7개
-- 윤도운: 24개
+- 윤도운: 23개
 - 정성헌: 26개
