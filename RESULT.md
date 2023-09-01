@@ -1,6 +1,10 @@
 |문제명| 최은우 | 김준기  | 박상훈  | 윤도운  | 정성헌 |
 |------|:-------:|:-------:|:-------:|:-------:|:-------:|
-|가장 긴 바이토닉 부분 수열|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
+|가장 긴 바이토닉 부분 수열|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
+|가장 큰 정사각형|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|
+|나만 안되는 연애|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
+|외판원 문제|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
+|좋다|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|
 |blackjack|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|
 |Ignition|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
 |queue|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|
@@ -41,13 +45,13 @@
 |최소비용 구하기|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|
 |텀 프로젝트|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|
 |냅색문제|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|
-|오큰수|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|
+|오큰수|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|
 |준표의 조약돌|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|
 |트리의 지름|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|<span style="color: #0f0">o</span>|<span style="color: #0f0">o</span>|<span style="color: #f00">x</span>|
 
 ### 안 푼 문제의 개수
-- 최은우: 2개
-- 김준기: 26개
-- 박상훈: 8개
-- 윤도운: 17개
-- 정성헌: 28개
+- 최은우: 0개
+- 김준기: 29개
+- 박상훈: 12개
+- 윤도운: 20개
+- 정성헌: 31개
