@@ -10,9 +10,8 @@ const input = fs
   const n = Number(input[0])
 
   const fc = (x) => {
-    if (x === 0) return 1;
-    if (x === 1) return 1;
-    else return x*fc(x-1);
+
+    return (x === 0 ) ? 1 : (x === 1 ) ? 1 : x * fc(x-1)
   }
 
   console.log(fc(n))
