@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main
 {
-
+	//커밋테스트
 	public static void main(String[] args)
 	{
 
