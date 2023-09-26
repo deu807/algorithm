@@ -1,44 +1,33 @@
+
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
 
 
         Scanner sc=new  Scanner(System.in);
-        int a= sc.nextInt();
-        int b= sc.nextInt();
-        int c= sc.nextInt();
+        int []arr=new int[3];
+        int answer=1;
+        for(int i=0; i<3; i++)
+        {
+            arr[i]=sc.nextInt();
+        }
 
-        if((a%2==0)&&(b%2==0)&&(c%2==0))
+        if(arr[0]%2==1||arr[1]%2==1||arr[2]%2==1)
         {
-            System.out.println(a*b*c);
+            for(int i=0; i<3; i++)
+            {
+                if(arr[i]%2==1)
+                    answer*=arr[i];
+            }
+            System.out.println(answer);
         }
-        else if((a%2==0)&&!(b%2==0)&&!(c%2==0))
+        else
         {
-            System.out.println(b*c);
-        }
-        else if((a%2==0)&&!(b%2==0)&&(c%2==0))
-        {
-            System.out.println(b);
-        }
-        else if((a%2==0)&&(b%2==0)&&!(c%2==0))
-        {
-            System.out.println(c);
-        }
-        else if(!(a%2==0)&&(b%2==0)&&!(c%2==0))
-        {
-            System.out.println(a*c);
-        }
-        else if(!(a%2==0)&&!(b%2==0)&&!(c%2==0))
-        {
-            System.out.println(a*b*c);
-        }
-        else if(!(a%2==0)&&(b%2==0)&&(c%2==0))
-        {
-            System.out.println(a);
-        }
-        else if(!(a%2==0)&&!(b%2==0)&&(c%2==0))
-        {
-            System.out.println(a*b);
+            for(int i=0; i<3; i++)
+            {
+                answer*=arr[i];
+            }
+            System.out.println(answer);
         }
 
     }
