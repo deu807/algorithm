@@ -1,8 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace algorithm
 {
@@ -11,6 +7,7 @@ namespace algorithm
         static void Main(string[] args)
         {
             int cnt = 0;
+            int temp = 0;
 
             int n = int.Parse(Console.ReadLine());
             int[] num = new int[n];
@@ -20,15 +17,21 @@ namespace algorithm
                 num[i] = int.Parse(Console.ReadLine());
             }
 
-            for (int i = 0; i < n; i++)
+            for (int i = n-1; i >= 0; i--)
             {
-                if (num[n - 1] < num[i])
+                if (num[i]>temp)
                 {
+                    temp = num[i];
                     cnt++;
                 }
+
+                //if (num[n - 1] < num[i])
+                //{
+                //    cnt++;
+                //}
             }
 
-            Console.WriteLine(cnt + 1);       //맨 오른쪽에 있는 자기자신 +1
+            Console.WriteLine(cnt);       //맨 오른쪽에 있는 자기자신 +1
         }
     }
 }
