@@ -1,5 +1,4 @@
-#include <iostream>
-#include <stack>
+#include <bits/stdc++.h>
 using namespace std;
 
 int N, M,arr1[101][101],arr2[101][101],arr3[101][101];
