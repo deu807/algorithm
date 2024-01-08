@@ -1,6 +1,6 @@
-# 문제: [경로 찾기][link]
+# 문제: [요세푸스][link]
 
-[link]: https://www.acmicpc.net/problem/11403
+[link]: https://www.acmicpc.net/problem/1158
 
 ### 출제자 : 정예림
 
