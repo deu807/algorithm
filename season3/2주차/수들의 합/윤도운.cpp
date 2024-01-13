@@ -9,19 +9,14 @@ long long S, N;
 void input()
 {
   cin >> S;
-  long long tmp = 0;
+  long long sum = 0;
   int cnt = 1;
-  while (1)
+  while (S >= sum)
   {
-
-    tmp += cnt;
-    if (tmp > S)
-    {
-      cout << cnt - 1;
-      break;
-    }
+    sum += cnt;
     cnt++;
   }
+  cout << cnt - 2;
 }
 
 void solution()
